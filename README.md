@@ -22,6 +22,16 @@
 
 **CIRCUIT DIAGRAM:**
 
+![exp 2 cd](https://github.com/user-attachments/assets/f648141e-cb37-40cb-8440-216a6c912d2e)
+
+**TABULATION:**
+
+![exp 2 tab](https://github.com/user-attachments/assets/4d32a13b-1a48-48b8-99fc-d64834f19637)
+
+**CALCULATION:**
+
+![exp 2 calc](https://github.com/user-attachments/assets/9260e2f6-6c34-4998-aad1-e20097f2bd0e)
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -36,13 +46,18 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
-   **RESULT:**
+**MARKS SPLIT UP:**
+
+![exp 2 ms](https://github.com/user-attachments/assets/73a354ee-8f64-447b-b365-014b40f86cdf)
+
+
+**RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	1.5mA.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	3.5mA.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	4.5mA.
 
